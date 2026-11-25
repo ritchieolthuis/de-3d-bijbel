@@ -84,6 +84,7 @@ const T = {
   en: { back: '3D Bible', title: 'Bible', ot: 'Old Testament', nt: 'New Testament', ch: 'Chapter', loading: 'Loading the Bible…', error: 'The Bible could not be loaded. Check your connection and try again.', prev: '← Previous', next: 'Next →', pick: 'Choose book and chapter', chapter: 'Chapter', doc: 'Bible — The 3D Bible' }
 };
 const NT_START = 'MAT';
+try { history.scrollRestoration = 'manual'; } catch (e) {}
 const qs = new URLSearchParams(location.search);
 const $ = (id) => document.getElementById(id);
 
@@ -160,7 +161,8 @@ function drawChapter() {
   u.searchParams.set('ref', b.code + '.' + chapter + (hlStart ? '.' + hlStart + (hlEnd > hlStart ? '-' + hlEnd : '') : ''));
   if (locale === 'en') u.searchParams.set('lang', 'en');
   history.replaceState(null, '', u);
-  if (hlStart && $('v' + hlStart)) $('v' + hlStart).scrollIntoView({ block: 'center' }); else window.scrollTo(0, 0);
+  const go = () => { if (hlStart && $('v' + hlStart)) $('v' + hlStart).scrollIntoView({ block: 'center' }); else window.scrollTo(0, 0); };
+  go(); requestAnimationFrame(go); setTimeout(go, 400); // again after layout/fonts, so a restored scroll position never wins
 }
 async function show(startRef) {
   $('main').innerHTML = '<div class="status">' + T[locale].loading + '</div>';
