@@ -1,0 +1,188 @@
+{
+ "_uitleg": "Welke verhaal-audio ontbreekt nog. De app toont de audiospeler niet voor id's in 'missing'. Bestand audio/<id>_<nl|en>.mp3 toevoegen en build-audio-missing.py opnieuw draaien haalt het uit de lijst.",
+ "bijgewerkt": "2026-10-13",
+ "missing": {
+  "arvad": [
+   "nl",
+   "en"
+  ],
+  "ashdod": [
+   "nl",
+   "en"
+  ],
+  "ashkelon": [
+   "nl",
+   "en"
+  ],
+  "asshur": [
+   "nl",
+   "en"
+  ],
+  "berea": [
+   "nl",
+   "en"
+  ],
+  "bethshean": [
+   "nl",
+   "en"
+  ],
+  "calah": [
+   "nl",
+   "en"
+  ],
+  "carchemish": [
+   "nl",
+   "en"
+  ],
+  "colossae": [
+   "nl",
+   "en"
+  ],
+  "cyrene": [
+   "nl",
+   "en"
+  ],
+  "derbe": [
+   "nl",
+   "en"
+  ],
+  "ecbatana": [
+   "nl",
+   "en"
+  ],
+  "ekron": [
+   "nl",
+   "en"
+  ],
+  "elath": [
+   "nl",
+   "en"
+  ],
+  "emmaus": [
+   "nl",
+   "en"
+  ],
+  "erech": [
+   "nl",
+   "en"
+  ],
+  "gath": [
+   "nl",
+   "en"
+  ],
+  "gaza": [
+   "nl",
+   "en"
+  ],
+  "gezer": [
+   "nl",
+   "en"
+  ],
+  "hamath": [
+   "nl",
+   "en"
+  ],
+  "hierapolis": [
+   "nl",
+   "en"
+  ],
+  "jezreel": [
+   "nl",
+   "en"
+  ],
+  "lachish": [
+   "nl",
+   "en"
+  ],
+  "magdala": [
+   "nl",
+   "en"
+  ],
+  "miletus": [
+   "nl",
+   "en"
+  ],
+  "on": [
+   "nl",
+   "en"
+  ],
+  "perga": [
+   "nl",
+   "en"
+  ],
+  "philadelphia": [
+   "nl",
+   "en"
+  ],
+  "puteoli": [
+   "nl",
+   "en"
+  ],
+  "riblah": [
+   "nl",
+   "en"
+  ],
+  "salamis": [
+   "nl",
+   "en"
+  ],
+  "sardis": [
+   "nl",
+   "en"
+  ],
+  "sidon": [
+   "nl",
+   "en"
+  ],
+  "sychar": [
+   "nl",
+   "en"
+  ],
+  "syene": [
+   "nl",
+   "en"
+  ],
+  "syracuse": [
+   "nl",
+   "en"
+  ],
+  "tadmor": [
+   "nl",
+   "en"
+  ],
+  "tahpanhes": [
+   "nl",
+   "en"
+  ],
+  "tarsus": [
+   "nl",
+   "en"
+  ],
+  "thebes": [
+   "nl",
+   "en"
+  ],
+  "thessalonica": [
+   "nl",
+   "en"
+  ],
+  "thyatira": [
+   "nl",
+   "en"
+  ],
+  "tiberias": [
+   "nl",
+   "en"
+  ],
+  "troas": [
+   "nl",
+   "en"
+  ]
+ },
+ "ongebruikt": [
+  "eden_fall_nl_test0.mp3",
+  "eden_fall_nl_test1.mp3",
+  "silo_en.mp3",
+  "silo_nl.mp3"
+ ]
+}

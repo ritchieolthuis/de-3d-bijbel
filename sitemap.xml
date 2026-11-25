@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://de3dbijbel.nl/</loc>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://de3dbijbel.nl/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://de3dbijbel.nl/?lang=en" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://de3dbijbel.nl/" />
+    <lastmod>2026-08-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://de3dbijbel.nl/og-cover.jpg</image:loc>
+      <image:title>De Bijbel Online - De 3D Bijbel</image:title>
+      <image:caption>De Bijbel online lezen, bestuderen en verkennen in interactief 3D volgens de Statenvertaling.</image:caption>
+    </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://de3dbijbel.nl/img/solomon_temple/hero.webp</video:thumbnail_loc>
+      <video:title>De Tempel van Salomo in 3D Animatie</video:title>
+      <video:description>Verken de Tempel van Salomo met het koperen wasvat, de pilaren Jachin en Boaz en het gouden interieur in 3D.</video:description>
+      <video:content_loc>https://de3dbijbel.nl/videos/solomon_temple.mp4</video:content_loc>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://de3dbijbel.nl/img/noahs_ark/hero.webp</video:thumbnail_loc>
+      <video:title>De Ark van Noach in 3D Animatie</video:title>
+      <video:description>3D-animatie van de Ark van Noach op de wateren van de Zondvloed volgens Genesis 6-9.</video:description>
+      <video:content_loc>https://de3dbijbel.nl/videos/noahs_ark.mp4</video:content_loc>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://de3dbijbel.nl/img/tabernacle/hero.webp</video:thumbnail_loc>
+      <video:title>De Tabernakel in de Woestijn in 3D Animatie</video:title>
+      <video:description>De heilige tent der samenkomst met de Ark des Verbonds en de Menorah in 3D animatie.</video:description>
+      <video:content_loc>https://de3dbijbel.nl/videos/tabernacle.mp4</video:content_loc>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://de3dbijbel.nl/img/mount_of_olives/hero.webp</video:thumbnail_loc>
+      <video:title>De Olijfberg &amp; Gethsémané in 3D Animatie</video:title>
+      <video:description>3D-animatie van de Olijfberg en de hof van Gethsémané waar Jezus bad.</video:description>
+      <video:content_loc>https://de3dbijbel.nl/videos/mount_of_olives.mp4</video:content_loc>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://de3dbijbel.nl/img/golgotha/hero.webp</video:thumbnail_loc>
+      <video:title>Golgotha &amp; De Kruisiging in 3D Animatie</video:title>
+      <video:description>3D-animatie van Golgotha (de Schedelplaats) buiten Jeruzalem.</video:description>
+      <video:content_loc>https://de3dbijbel.nl/videos/golgotha.mp4</video:content_loc>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://de3dbijbel.nl/img/new_jerusalem/hero.webp</video:thumbnail_loc>
+      <video:title>Het Nieuwe Jeruzalem in 3D Animatie</video:title>
+      <video:description>De hemelse gouden stad met twaalf paarlen poorten in 3D volgens Openbaring 21-22.</video:description>
+      <video:content_loc>https://de3dbijbel.nl/videos/new_jerusalem.mp4</video:content_loc>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://de3dbijbel.nl/?lang=en</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://de3dbijbel.nl/?lang=en" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://de3dbijbel.nl/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://de3dbijbel.nl/" />
+    <lastmod>2026-08-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.95</priority>
+    <image:image>
+      <image:loc>https://de3dbijbel.nl/og-cover.jpg</image:loc>
+      <image:title>The 3D Bible - The Bible Online</image:title>
+      <image:caption>Explore biblical structures and the Holy Bible in interactive 3D with the King James Bible.</image:caption>
+    </image:image>
+  </url>
+</urlset>

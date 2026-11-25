@@ -1,0 +1,28 @@
+{
+  "name": "De 3D Bijbel",
+  "short_name": "De 3D Bijbel",
+  "description": "Interactieve 3D Bijbel encyclopedie van Bijbelse bouwwerken en plaatsen volgens de Statenvertaling en King James Bible.",
+  "icons": [
+    {
+      "src": "icon.png?v=3dbijbel5",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "apple-touch-icon.png?v=3dbijbel5",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "theme_color": "#E2EAEE",
+  "background_color": "#f4f6f7",
+  "display": "standalone",
+  "start_url": "./",
+  "categories": [
+    "education",
+    "books",
+    "reference"
+  ]
+}
